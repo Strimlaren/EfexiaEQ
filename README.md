@@ -10,4 +10,4 @@ User can also, in the same window, select which of the accounts Equity should be
 several accounts at the same time whos total Equity is subject to maximum drawdown limits. It is also possible to set account-specific Equity-based alarm levels 
 as well as sum total Equity alarm levels. For convenience, a close-everything button is also made available.
 
-![EfexiaEQ Control Panel](https://i.gyazo.com/a0ac36120c948fdd7a7dc3644455e2d4.png)
+![EfexiaEQ Control Panel](https://gyazo.com/5151ca1df7f285e157be273eddbb2304)
